@@ -1,0 +1,29 @@
+Reporte de Horas PGGA 
+
+Esto en pestaña Plan Insertar Columna en M -> Saldo estimado Workload que saco los valores auotmaticamente de pestaña "Importadas WL"
+-> para esto se suman los valores desde el mes y año hasta el final
+
+Sacariamos el valor desde la columna del mes y año indicado en la pestaña para lo que dice Importada desde WL
+
+
+Debe ser la columna H, la de Horas Planificadas que está insertada manualmente que quiere que la saque de las iCmportadas del WL
+
+
+supongo que las horas planificadas (columna H) las saco del WL y en base al mes y año seleccionados
+
+y el saldo estimado seria la suma de los de la fecha (sacado con month en base a la fecha actual) hasta el final de 2025, y es la columna M que tengo que inserter
+
+y voila, seria eso!!
+
+
+
+
+
+
+
+
+
+
+
+
+
